@@ -10,5 +10,5 @@ Segue o link: https://github.com/jopedro902/informatica/blob/main/controle%20de%
 Segue o link : https://github.com/jopedro902/informatica/blob/main/controle%20de%20alunos%20%20Jo%C3%A3o%20pedro.pdf
 ![Captura de tela 2025-03-20 210632](https://github.com/user-attachments/assets/7b4ddfc6-0763-4a6a-9a40-32324d1fc2b3)
 ## Quarta atividade: power bi 
-segue o link : 
+segue o link : https://github.com/jopedro902/informatica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202024.pbix
 ![image](https://github.com/user-attachments/assets/23101a0e-6436-4edd-b1b7-664e4ec7bb16)
