@@ -12,9 +12,10 @@ Segue o link : https://github.com/jopedro902/informatica/blob/main/controle%20de
 ## 4° Atividade: Dados Abertos Alunos Estrangeiros // Power bi 
 segue o link : https://github.com/jopedro902/informatica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202024.pbix
 ![image](https://github.com/user-attachments/assets/23101a0e-6436-4edd-b1b7-664e4ec7bb16)
-## 5° Atividade : Dados Abertos 
+## 5° Atividade : Power Bi
 segue o link : https://github.com/zorpinha/Portif-lio/blob/main/PETROLEO%20BI.pbix
 ![image](https://github.com/user-attachments/assets/6be45ed1-d5e0-491f-9ff8-3c0ef4fcd5e0)
+## Exel 
 segue o link do excel: https://github.com/jopedro902/informatica/blob/main/pretol%C3%A9o.xlsx
 ![image](https://github.com/user-attachments/assets/58fb704a-d5ad-49b1-9905-85ed7e87eb3b)
 
