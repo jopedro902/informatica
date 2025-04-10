@@ -15,7 +15,7 @@ segue o link : https://github.com/jopedro902/informatica/blob/main/Quantidade%20
 ## 5° Atividade : Dados Abertos 
 segue o link : https://github.com/zorpinha/Portif-lio/blob/main/PETROLEO%20BI.pbix
 ![image](https://github.com/user-attachments/assets/6be45ed1-d5e0-491f-9ff8-3c0ef4fcd5e0)
-segue o link do excel: 
+segue o link do excel: https://github.com/jopedro902/informatica/blob/main/pretol%C3%A9o.xlsx
 ![image](https://github.com/user-attachments/assets/58fb704a-d5ad-49b1-9905-85ed7e87eb3b)
 
 
