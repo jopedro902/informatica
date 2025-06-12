@@ -25,4 +25,5 @@ segue link de todos os dados:  https://github.com/zorpinha/Regress-o-linear-Exce
 ## 7° Atividade: Panela de Sorvete: 
 segue o link: ![image](https://github.com/user-attachments/assets/fb168c16-ad7e-49c9-86ce-ca2272787639)
 ## 8° Atividade: Power Apps 
-segue link : 
+segue link : ![image](https://github.com/user-attachments/assets/bf333ea0-899d-440e-8416-d936291b30f4)
+
