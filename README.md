@@ -24,6 +24,6 @@ segue excel : ![image](https://github.com/user-attachments/assets/b9d85c47-03ea-
 segue link de todos os dados:  https://github.com/zorpinha/Regress-o-linear-Excel-e-Machine-Learning/issues/1?classId=525ccf9e-5076-4b99-8ea5-4fa460fe398f&assignmentId=23723ebe-1724-4e9b-814c-f56a82cd8bda&submissionId=4daf00bb-5733-b1d8-1986-5273405beb72
 ## 7° Atividade: Panela de Sorvete: 
 segue o link: ![image](https://github.com/user-attachments/assets/fb168c16-ad7e-49c9-86ce-ca2272787639)
-## 8° Atividade: Power Apps 
+## 8° Atividade: Power Apps CLIENTE, FORNECEDOR  e ORDEM DE PRODUÇÃO. 
 segue link : ![image](https://github.com/user-attachments/assets/bf333ea0-899d-440e-8416-d936291b30f4)
 
