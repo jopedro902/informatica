@@ -26,4 +26,6 @@ segue link de todos os dados:  https://github.com/zorpinha/Regress-o-linear-Exce
 segue o link: ![image](https://github.com/user-attachments/assets/fb168c16-ad7e-49c9-86ce-ca2272787639)
 ## 8° Atividade: Power Apps CLIENTE, FORNECEDOR  e ORDEM DE PRODUÇÃO. 
 segue link : ![image](https://github.com/user-attachments/assets/bf333ea0-899d-440e-8416-d936291b30f4)
+## Atividade 9: Gestão de indicadores:
+segue o link: ![image](https://github.com/user-attachments/assets/ad456dbb-adfa-4725-91fd-836fe4719da3)
 
