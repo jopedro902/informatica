@@ -30,4 +30,4 @@ segue o link : https://github.com/jopedro902/informatica/blob/main/Gravando%2020
 ## Atividade 9: Gestão de indicadores:
 segue o link: ![image](https://github.com/user-attachments/assets/ad456dbb-adfa-4725-91fd-836fe4719da3)
 segue  o link : https://github.com/jopedro902/informatica/blob/main/Gravando%202025-06-16%20195507.mp4
-## video segue o link: 
+## video segue o link: https://github.com/jopedro902/informatica/blob/main/Produ%C3%A7%C3%A3o%20.mp4
